@@ -1,0 +1,1 @@
+computer,keyboard,mouse,vehicle,monitor
